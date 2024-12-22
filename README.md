@@ -1,3 +1,3 @@
 # Barbearia Alura
 
-## Um site simples, utlizando os conceitos básicos de HTML e CSS
+## Um site simples, utilizando os conceitos básicos de HTML e CSS
